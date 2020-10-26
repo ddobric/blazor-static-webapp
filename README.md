@@ -10,7 +10,7 @@ Once you clone the project, open the solution in [Visual Studio](https://visuals
 
 _Note: If you're using the Azure Functions CLI tools, refer to [the documentation](https://docs.microsoft.com/azure/azure-functions/functions-run-local?tabs=windows%2Ccsharp%2Cbash) on how to enable CORS._
 
-## Template Structure
+## Template Structure :)
 
 * **Client**: The Blazor WebAssembly sample application
 * **API**: A C# Azure Functions API, which the Blazor application will call
